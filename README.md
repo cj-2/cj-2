@@ -1,9 +1,12 @@
 # Carlos Júnior
 
 ## Sobre
-Desenvolvedor FullStack | C# | .NET | Blazor | Postrgres | JavaScript | TypeScript | Vue.js
+Back-End Software Developer | .NET | C# | PostgreSQL | RavenDB
 
-Desenvolvedor, em atuação desde o início de 2021, com experiência em cargos utilizando tecnologias focadas no lado do cliente (Front-End) e experiência acumulada em projetos, trabalhos e produtos pessoais em ambas às áreas, cliente e servidor (Front-End e Back-End).
+Desenvolvedor em atuação desde o início de 2021, com experiência em cargos utilizando tecnologias de cliente e servidor (Front-End e Back-End). Atualmente atuo como desenvolvedor FullStack, mas levo como prioridade a especialização nas tecnologias voltadas para o BackEnd, criação de API's e scripts de automação.
+
+Outras tecnologias:
+JavaScript | TypeScript | Vue.js | Nuxt.js
 
 ## Links
 
