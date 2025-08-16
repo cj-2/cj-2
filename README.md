@@ -7,7 +7,3 @@ Desenvolvedor em atuação desde o início de 2021, com experiência em cargos u
 
 Outras tecnologias:
 JavaScript | TypeScript | Vue.js | Nuxt.js
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/carlos-roberto/)
